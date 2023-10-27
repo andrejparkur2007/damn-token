@@ -2,7 +2,7 @@
 pragma solidity ^0.8.0;
 
 contract MyToken {
-    string public name = "ObamaBaidenTrumpPutinZelenskij";
+    string public name = "ObamaBaidenTrumpLevits";
     string public symbol = "DAMN";
     uint8 public decimals = 18;
     uint256 private _totalSupply;
